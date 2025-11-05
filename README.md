@@ -1,5 +1,4 @@
 # X-Bomber
-
 ## 
 ![X-bomber Banner](https://raw.githubusercontent.com/CyberNobii/X-bomber/main/assets/x-bomber-banner.png)
 

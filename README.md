@@ -1,5 +1,5 @@
 # X-Bomber
-## 
+
 ![X-bomber Banner](https://raw.githubusercontent.com/CyberNobii/X-bomber/main/assets/x-bomber-banner.png)
 
 ---
@@ -59,4 +59,8 @@ We are always looking to improve **X-Bomber**. If you have ideas for new feature
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE.md](LICENSE.md) file for more details.
+
+### Contact
+- ![@code_dreamerr_](https://instagram.com/code_dreamerr_)
+- ![@mjolni_ir](https://t.me/Xbomberr)
 

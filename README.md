@@ -39,13 +39,13 @@ A powerful Call/SMS bombing tool for educational and testing purposes.
 4.  **Run the Bomber:**
     ```
     python3 bomber.py
-    
+    ```
 
 ---
 
 ## ⚡Tip
 
-For **optimal performance**, use a thread count between **10 and 30**. Using **less than 10** will significantly reduce speed and effectiveness.
+For **optimal performance**, use a thread count between **10 and 20**. Using **less than 10** will significantly reduce speed and effectiveness.
 
 ---
 

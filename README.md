@@ -62,5 +62,5 @@ This project is licensed under the **MIT License**. See the [LICENSE.md](LICENSE
 
 ### Contact
 - [@code_dreamerr_](https://instagram.com/code_dreamerr_)
-- [@mjolni_ir](https://t.me/Xbomberr)
+- [@X-Bomber](https://t.me/Xbomberr)
 

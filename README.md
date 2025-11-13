@@ -37,7 +37,7 @@ A powerful Call/SMS bombing tool for educational and testing purposes.
     ```
 4.  **Run the Bomber:**
     ```
-    python3 bomber.py
+    python3 main.py
     ```
 
 ---

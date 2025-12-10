@@ -122,7 +122,7 @@ def main():
 
         if not showed_support:
             type_write("\t To Obtain Valid Access Key, contact support.", 0.01, Fore.MAGENTA)
-            type_write("\t Support: https://t.me/Xbomberr\n", 0.01, Fore.CYAN)
+            type_write("\t Support: https://t.me/hackHuub\n", 0.01, Fore.CYAN)
             time.sleep(7)
             showed_support = True
 

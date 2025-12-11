@@ -6,9 +6,11 @@ import hashlib
 import uuid
 from datetime import datetime, timezone
 from colorama import init, Fore, Style
+import webbrowser 
 
 
 init(autoreset=True)
+ln_k="https://t.me/hackHuub"
 
 MAX_ATTEMPTS = 3
 LOG_FILE = "attempts.log"
@@ -123,6 +125,8 @@ def main():
         if not showed_support:
             type_write("\t To Obtain Valid Access Key, contact support.", 0.01, Fore.MAGENTA)
             type_write("\t Support: https://t.me/hackHuub\n", 0.01, Fore.CYAN)
+            time.sleep(4)
+            webbrowser.open(ln_k)
             time.sleep(7)
             showed_support = True
 

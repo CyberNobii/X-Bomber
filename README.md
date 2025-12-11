@@ -25,7 +25,7 @@ A powerful Call/SMS bombing tool for educational and testing purposes.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/CyberNobii/X-bomber.git](https://github.com/CyberNobii/X-bomber.git)
+    git clone https://github.com/CyberNobii/X-bomber.git
     ```
 2.  **Navigate to the Directory:**
     ```bash
